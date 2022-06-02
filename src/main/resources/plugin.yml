@@ -1,0 +1,4 @@
+name: Luma
+version: '${project.version}'
+author: Rayquaza Development
+main: Luma
